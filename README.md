@@ -1,2 +1,2 @@
 # mt-imitation
-模仿美团官网
+使用nuxt.js、Koa2 模仿美团官网
