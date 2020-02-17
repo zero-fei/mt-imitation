@@ -117,7 +117,7 @@ export default {
       isFocus: false,
       search: '',
       hostPlace: ['火锅', '火锅', '火锅', '火锅'],
-      searchList: []
+      searchList: ['火锅', '火锅', '火锅']
     }
   },
   computed: {

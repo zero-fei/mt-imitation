@@ -6,14 +6,18 @@
     <el-main>
       <nuxt />
     </el-main>
-    <el-footer height='100%'>Footer</el-footer>
+    <el-footer height='100%'>
+      <my-foot />
+    </el-footer>
   </el-container>
 </template>
 <script>
 import HearderContnt from "@/components/public/header";
+import MyFoot from "@/components/public/footer";
 export default {
   components: {
-    HearderContnt
+    HearderContnt,
+    MyFoot
   }
 }
 </script>
